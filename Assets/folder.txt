@@ -1,0 +1,1052 @@
+卷 新加卷 的文件夹 PATH 列表
+卷序列号为 C634-33B8
+E:.
+│  folder.txt
+│  HMSXRFoundation.meta
+│  MRTK.Generated.meta
+│  Plugins.meta
+│  TextMesh Pro.meta
+│  XR.meta
+│  XRI.meta
+│  
+├─HMSXRFoundation
+│  │  Core.meta
+│  │  SampleScenes.meta
+│  │  
+│  ├─Core
+│  │  │  Editor.meta
+│  │  │  XvFoundation.meta
+│  │  │  XvSdk.meta
+│  │  │  
+│  │  ├─Editor
+│  │  │      BuildSettingWindows.cs
+│  │  │      BuildSettingWindows.cs.meta
+│  │  │      ProjectBuild.cs
+│  │  │      ProjectBuild.cs.meta
+│  │  │      XvXRFoundation.cs
+│  │  │      XvXRFoundation.cs.meta
+│  │  │      
+│  │  ├─XvFoundation
+│  │  │  │  Common.meta
+│  │  │  │  EyeTracking.meta
+│  │  │  │  Keyboard.meta
+│  │  │  │  MediaRecorder.meta
+│  │  │  │  MRVideoCapture.meta
+│  │  │  │  PlaneDetection.meta
+│  │  │  │  RTSPStreamer.meta
+│  │  │  │  SpatialMap.meta
+│  │  │  │  SpatialMesh.meta
+│  │  │  │  SpeechVoice.meta
+│  │  │  │  SystemSetting.meta
+│  │  │  │  TagRecognizer.meta
+│  │  │  │  Viewer.meta
+│  │  │  │  
+│  │  │  ├─Common
+│  │  │  │  │  Scripts.meta
+│  │  │  │  │  
+│  │  │  │  └─Scripts
+│  │  │  │          AndroidHelper.cs
+│  │  │  │          AndroidHelper.cs.meta
+│  │  │  │          CSVFile.cs
+│  │  │  │          CSVFile.cs.meta
+│  │  │  │          FrameRateCounter.cs
+│  │  │  │          FrameRateCounter.cs.meta
+│  │  │  │          MyDebugTool.cs
+│  │  │  │          MyDebugTool.cs.meta
+│  │  │  │          SingletonMonoBehaviour.cs
+│  │  │  │          SingletonMonoBehaviour.cs.meta
+│  │  │  │          WorkQueue.cs
+│  │  │  │          WorkQueue.cs.meta
+│  │  │  │          
+│  │  │  ├─EyeTracking
+│  │  │  │  │  Prefabs.meta
+│  │  │  │  │  Scripts.meta
+│  │  │  │  │  
+│  │  │  │  ├─Prefabs
+│  │  │  │  │      RayHit.prefab
+│  │  │  │  │      RayHit.prefab.meta
+│  │  │  │  │      XvEyeTrackingManager.prefab
+│  │  │  │  │      XvEyeTrackingManager.prefab.meta
+│  │  │  │  │      
+│  │  │  │  └─Scripts
+│  │  │  │      │  Base.meta
+│  │  │  │      │  XvEyeTrackingManager.cs
+│  │  │  │      │  XvEyeTrackingManager.cs.meta
+│  │  │  │      │  
+│  │  │  │      └─Base
+│  │  │  │              XvEyeTracking.cs
+│  │  │  │              XvEyeTracking.cs.meta
+│  │  │  │              
+│  │  │  ├─Keyboard
+│  │  │  │  │  Editor.meta
+│  │  │  │  │  Plugins.meta
+│  │  │  │  │  Prefabs.meta
+│  │  │  │  │  Resources.meta
+│  │  │  │  │  Scripts.meta
+│  │  │  │  │  
+│  │  │  │  ├─Editor
+│  │  │  │  │      CreateInputField.cs
+│  │  │  │  │      CreateInputField.cs.meta
+│  │  │  │  │      
+│  │  │  │  ├─Plugins
+│  │  │  │  │      NPinyin.Core.dll
+│  │  │  │  │      NPinyin.Core.dll.meta
+│  │  │  │  │      
+│  │  │  │  ├─Prefabs
+│  │  │  │  ├─Resources
+│  │  │  │  │  │  CustomInputField.prefab
+│  │  │  │  │  │  CustomInputField.prefab.meta
+│  │  │  │  │  │  Files.meta
+│  │  │  │  │  │  Keyboard 1.prefab
+│  │  │  │  │  │  Keyboard 1.prefab.meta
+│  │  │  │  │  │  Keyboard.prefab
+│  │  │  │  │  │  Keyboard.prefab.meta
+│  │  │  │  │  │  
+│  │  │  │  │  └─Files
+│  │  │  │  │          pinyin.csv
+│  │  │  │  │          pinyin.csv.meta
+│  │  │  │  │          
+│  │  │  │  └─Scripts
+│  │  │  │          CustomInputField.cs
+│  │  │  │          CustomInputField.cs.meta
+│  │  │  │          InputContentPanel.cs
+│  │  │  │          InputContentPanel.cs.meta
+│  │  │  │          KeyButton.cs
+│  │  │  │          KeyButton.cs.meta
+│  │  │  │          MRKeyboard.cs
+│  │  │  │          MRKeyboard.cs.meta
+│  │  │  │          PinYin.cs
+│  │  │  │          PinYin.cs.meta
+│  │  │  │          UpdateHanZiHotWord.cs
+│  │  │  │          UpdateHanZiHotWord.cs.meta
+│  │  │  │          
+│  │  │  ├─MediaRecorder
+│  │  │  │  │  NatCorder.meta
+│  │  │  │  │  Resources.meta
+│  │  │  │  │  XvMediaRecorder.cs
+│  │  │  │  │  XvMediaRecorder.cs.meta
+│  │  │  │  │  XvMediaRecorderManager.cs
+│  │  │  │  │  XvMediaRecorderManager.cs.meta
+│  │  │  │  │  XvMedioRecordTips.cs
+│  │  │  │  │  XvMedioRecordTips.cs.meta
+│  │  │  │  │  
+│  │  │  │  ├─NatCorder
+│  │  │  │  │  │  Changelog.md
+│  │  │  │  │  │  Changelog.md.meta
+│  │  │  │  │  │  Docs.meta
+│  │  │  │  │  │  Examples.meta
+│  │  │  │  │  │  Font.meta
+│  │  │  │  │  │  Plugins.meta
+│  │  │  │  │  │  Prefab.meta
+│  │  │  │  │  │  README.md
+│  │  │  │  │  │  README.md.meta
+│  │  │  │  │  │  
+│  │  │  │  │  ├─Docs
+│  │  │  │  │  │  │  Groups.meta
+│  │  │  │  │  │  │  Home.meta
+│  │  │  │  │  │  │  index.html
+│  │  │  │  │  │  │  index.html.meta
+│  │  │  │  │  │  │  Members.meta
+│  │  │  │  │  │  │  Styles.meta
+│  │  │  │  │  │  │  
+│  │  │  │  │  │  ├─Groups
+│  │  │  │  │  │  │      AudioInput.html
+│  │  │  │  │  │  │      AudioInput.html.meta
+│  │  │  │  │  │  │      CameraInput.html
+│  │  │  │  │  │  │      CameraInput.html.meta
+│  │  │  │  │  │  │      FixedIntervalClock.html
+│  │  │  │  │  │  │      FixedIntervalClock.html.meta
+│  │  │  │  │  │  │      GIFRecorder.html
+│  │  │  │  │  │  │      GIFRecorder.html.meta
+│  │  │  │  │  │  │      HEVCRecorder.html
+│  │  │  │  │  │  │      HEVCRecorder.html.meta
+│  │  │  │  │  │  │      JPGRecorder.html
+│  │  │  │  │  │  │      JPGRecorder.html.meta
+│  │  │  │  │  │  │      MP4Recorder.html
+│  │  │  │  │  │  │      MP4Recorder.html.meta
+│  │  │  │  │  │  │      RealtimeClock.html
+│  │  │  │  │  │  │      RealtimeClock.html.meta
+│  │  │  │  │  │  │      ScreenInput.html
+│  │  │  │  │  │  │      ScreenInput.html.meta
+│  │  │  │  │  │  │      
+│  │  │  │  │  │  ├─Home
+│  │  │  │  │  │  │      navigation.html
+│  │  │  │  │  │  │      navigation.html.meta
+│  │  │  │  │  │  │      welcome.html
+│  │  │  │  │  │  │      welcome.html.meta
+│  │  │  │  │  │  │      
+│  │  │  │  │  │  ├─Members
+│  │  │  │  │  │  │      AudioInput_AudioInput.html
+│  │  │  │  │  │  │      AudioInput_AudioInput.html.meta
+│  │  │  │  │  │  │      AudioInput_AudioInput1.html
+│  │  │  │  │  │  │      AudioInput_AudioInput1.html.meta
+│  │  │  │  │  │  │      AudioInput_Dispose.html
+│  │  │  │  │  │  │      AudioInput_Dispose.html.meta
+│  │  │  │  │  │  │      CameraInput_CameraInput.html
+│  │  │  │  │  │  │      CameraInput_CameraInput.html.meta
+│  │  │  │  │  │  │      CameraInput_Dispose.html
+│  │  │  │  │  │  │      CameraInput_Dispose.html.meta
+│  │  │  │  │  │  │      CameraInput_frameSkip.html
+│  │  │  │  │  │  │      CameraInput_frameSkip.html.meta
+│  │  │  │  │  │  │      FixedIntervalClock_FixedIntervalClock.html
+│  │  │  │  │  │  │      FixedIntervalClock_FixedIntervalClock.html.meta
+│  │  │  │  │  │  │      FixedIntervalClock_FixedIntervalClock1.html
+│  │  │  │  │  │  │      FixedIntervalClock_FixedIntervalClock1.html.meta
+│  │  │  │  │  │  │      FixedIntervalClock_Interval.html
+│  │  │  │  │  │  │      FixedIntervalClock_Interval.html.meta
+│  │  │  │  │  │  │      FixedIntervalClock_Tick.html
+│  │  │  │  │  │  │      FixedIntervalClock_Tick.html.meta
+│  │  │  │  │  │  │      FixedIntervalClock_Timestamp.html
+│  │  │  │  │  │  │      FixedIntervalClock_Timestamp.html.meta
+│  │  │  │  │  │  │      GIFRecorder_CommitFrame.html
+│  │  │  │  │  │  │      GIFRecorder_CommitFrame.html.meta
+│  │  │  │  │  │  │      GIFRecorder_CommitFrame1.html
+│  │  │  │  │  │  │      GIFRecorder_CommitFrame1.html.meta
+│  │  │  │  │  │  │      GIFRecorder_CommitSamples.html
+│  │  │  │  │  │  │      GIFRecorder_CommitSamples.html.meta
+│  │  │  │  │  │  │      GIFRecorder_FinishWriting.html
+│  │  │  │  │  │  │      GIFRecorder_FinishWriting.html.meta
+│  │  │  │  │  │  │      GIFRecorder_frameSize.html
+│  │  │  │  │  │  │      GIFRecorder_frameSize.html.meta
+│  │  │  │  │  │  │      GIFRecorder_GIFRecorder.html
+│  │  │  │  │  │  │      GIFRecorder_GIFRecorder.html.meta
+│  │  │  │  │  │  │      HEVCRecorder_CommitFrame.html
+│  │  │  │  │  │  │      HEVCRecorder_CommitFrame.html.meta
+│  │  │  │  │  │  │      HEVCRecorder_CommitFrame1.html
+│  │  │  │  │  │  │      HEVCRecorder_CommitFrame1.html.meta
+│  │  │  │  │  │  │      HEVCRecorder_CommitSamples.html
+│  │  │  │  │  │  │      HEVCRecorder_CommitSamples.html.meta
+│  │  │  │  │  │  │      HEVCRecorder_FinishWriting.html
+│  │  │  │  │  │  │      HEVCRecorder_FinishWriting.html.meta
+│  │  │  │  │  │  │      HEVCRecorder_frameSize.html
+│  │  │  │  │  │  │      HEVCRecorder_frameSize.html.meta
+│  │  │  │  │  │  │      HEVCRecorder_HEVCRecorder.html
+│  │  │  │  │  │  │      HEVCRecorder_HEVCRecorder.html.meta
+│  │  │  │  │  │  │      JPGRecorder_CommitFrame.html
+│  │  │  │  │  │  │      JPGRecorder_CommitFrame.html.meta
+│  │  │  │  │  │  │      JPGRecorder_CommitFrame1.html
+│  │  │  │  │  │  │      JPGRecorder_CommitFrame1.html.meta
+│  │  │  │  │  │  │      JPGRecorder_CommitSamples.html
+│  │  │  │  │  │  │      JPGRecorder_CommitSamples.html.meta
+│  │  │  │  │  │  │      JPGRecorder_FinishWriting.html
+│  │  │  │  │  │  │      JPGRecorder_FinishWriting.html.meta
+│  │  │  │  │  │  │      JPGRecorder_frameSize.html
+│  │  │  │  │  │  │      JPGRecorder_frameSize.html.meta
+│  │  │  │  │  │  │      JPGRecorder_JPGRecorder.html
+│  │  │  │  │  │  │      JPGRecorder_JPGRecorder.html.meta
+│  │  │  │  │  │  │      MP4Recorder_CommitFrame.html
+│  │  │  │  │  │  │      MP4Recorder_CommitFrame.html.meta
+│  │  │  │  │  │  │      MP4Recorder_CommitFrame1.html
+│  │  │  │  │  │  │      MP4Recorder_CommitFrame1.html.meta
+│  │  │  │  │  │  │      MP4Recorder_CommitSamples.html
+│  │  │  │  │  │  │      MP4Recorder_CommitSamples.html.meta
+│  │  │  │  │  │  │      MP4Recorder_FinishWriting.html
+│  │  │  │  │  │  │      MP4Recorder_FinishWriting.html.meta
+│  │  │  │  │  │  │      MP4Recorder_frameSize.html
+│  │  │  │  │  │  │      MP4Recorder_frameSize.html.meta
+│  │  │  │  │  │  │      MP4Recorder_MP4Recorder.html
+│  │  │  │  │  │  │      MP4Recorder_MP4Recorder.html.meta
+│  │  │  │  │  │  │      RealtimeClock_Paused.html
+│  │  │  │  │  │  │      RealtimeClock_Paused.html.meta
+│  │  │  │  │  │  │      RealtimeClock_Timestamp.html
+│  │  │  │  │  │  │      RealtimeClock_Timestamp.html.meta
+│  │  │  │  │  │  │      ScreenInput_Dispose.html
+│  │  │  │  │  │  │      ScreenInput_Dispose.html.meta
+│  │  │  │  │  │  │      ScreenInput_frameSkip.html
+│  │  │  │  │  │  │      ScreenInput_frameSkip.html.meta
+│  │  │  │  │  │  │      ScreenInput_ScreenInput.html
+│  │  │  │  │  │  │      ScreenInput_ScreenInput.html.meta
+│  │  │  │  │  │  │      
+│  │  │  │  │  │  └─Styles
+│  │  │  │  │  │          groupstyles.css
+│  │  │  │  │  │          groupstyles.css.meta
+│  │  │  │  │  │          indexstyles.css
+│  │  │  │  │  │          indexstyles.css.meta
+│  │  │  │  │  │          memberstyles.css
+│  │  │  │  │  │          memberstyles.css.meta
+│  │  │  │  │  │          navigationstyles.css
+│  │  │  │  │  │          navigationstyles.css.meta
+│  │  │  │  │  │          welcomestyles.css
+│  │  │  │  │  │          welcomestyles.css.meta
+│  │  │  │  │  │          
+│  │  │  │  │  ├─Examples
+│  │  │  │  │  │  │  Giffy.meta
+│  │  │  │  │  │  │  JPG.meta
+│  │  │  │  │  │  │  ReplayCam.meta
+│  │  │  │  │  │  │  WebCam.meta
+│  │  │  │  │  │  │  
+│  │  │  │  │  │  ├─Giffy
+│  │  │  │  │  │  │      Giffy.cs
+│  │  │  │  │  │  │      Giffy.cs.meta
+│  │  │  │  │  │  │      Giffy.unity
+│  │  │  │  │  │  │      Giffy.unity.meta
+│  │  │  │  │  │  │      GiffySettings.lighting
+│  │  │  │  │  │  │      GiffySettings.lighting.meta
+│  │  │  │  │  │  │      
+│  │  │  │  │  │  ├─JPG
+│  │  │  │  │  │  │      JPG.cs
+│  │  │  │  │  │  │      JPG.cs.meta
+│  │  │  │  │  │  │      JPG.unity
+│  │  │  │  │  │  │      JPG.unity.meta
+│  │  │  │  │  │  │      JPGButton.cs
+│  │  │  │  │  │  │      JPGButton.cs.meta
+│  │  │  │  │  │  │      JPGSettings.lighting
+│  │  │  │  │  │  │      JPGSettings.lighting.meta
+│  │  │  │  │  │  │      
+│  │  │  │  │  │  ├─ReplayCam
+│  │  │  │  │  │  │  │  CameraPreview.cs
+│  │  │  │  │  │  │  │  CameraPreview.cs.meta
+│  │  │  │  │  │  │  │  RecordButton.cs
+│  │  │  │  │  │  │  │  RecordButton.cs.meta
+│  │  │  │  │  │  │  │  ReplayCam.cs
+│  │  │  │  │  │  │  │  ReplayCam.cs.meta
+│  │  │  │  │  │  │  │  ReplayCam.unity
+│  │  │  │  │  │  │  │  ReplayCam.unity.meta
+│  │  │  │  │  │  │  │  ReplayCamSettings.lighting
+│  │  │  │  │  │  │  │  ReplayCamSettings.lighting.meta
+│  │  │  │  │  │  │  │  UI.meta
+│  │  │  │  │  │  │  │  
+│  │  │  │  │  │  │  └─UI
+│  │  │  │  │  │  │      │  button.png
+│  │  │  │  │  │  │      │  button.png.meta
+│  │  │  │  │  │  │      │  circle.png
+│  │  │  │  │  │  │      │  circle.png.meta
+│  │  │  │  │  │  │      │  RecordButton.prefab
+│  │  │  │  │  │  │      │  RecordButton.prefab.meta
+│  │  │  │  │  │  │      │  Resources.meta
+│  │  │  │  │  │  │      │  
+│  │  │  │  │  │  │      └─Resources
+│  │  │  │  │  │  │              CameraPreview.shader
+│  │  │  │  │  │  │              CameraPreview.shader.meta
+│  │  │  │  │  │  │              
+│  │  │  │  │  │  └─WebCam
+│  │  │  │  │  │          WebCam.cs
+│  │  │  │  │  │          WebCam.cs.meta
+│  │  │  │  │  │          WebCam.unity
+│  │  │  │  │  │          WebCam.unity.meta
+│  │  │  │  │  │          WebCamSettings.lighting
+│  │  │  │  │  │          WebCamSettings.lighting.meta
+│  │  │  │  │  │          
+│  │  │  │  │  ├─Font
+│  │  │  │  │  │      lt SDF.asset
+│  │  │  │  │  │      lt SDF.asset.meta
+│  │  │  │  │  │      lt.TTF
+│  │  │  │  │  │      lt.TTF.meta
+│  │  │  │  │  │      txt.txt
+│  │  │  │  │  │      txt.txt.meta
+│  │  │  │  │  │      
+│  │  │  │  │  ├─Plugins
+│  │  │  │  │  │  │  Android.meta
+│  │  │  │  │  │  │  iOS.meta
+│  │  │  │  │  │  │  macOS.meta
+│  │  │  │  │  │  │  Managed.meta
+│  │  │  │  │  │  │  Windows.meta
+│  │  │  │  │  │  │  
+│  │  │  │  │  │  ├─Android
+│  │  │  │  │  │  │      NatCorder.aar
+│  │  │  │  │  │  │      NatCorder.aar.meta
+│  │  │  │  │  │  │      NatRender.aar
+│  │  │  │  │  │  │      NatRender.aar.meta
+│  │  │  │  │  │  │      
+│  │  │  │  │  │  ├─iOS
+│  │  │  │  │  │  │      libNatCorder.a
+│  │  │  │  │  │  │      libNatCorder.a.meta
+│  │  │  │  │  │  │      
+│  │  │  │  │  │  ├─macOS
+│  │  │  │  │  │  │  │  NatCorder.bundle.meta
+│  │  │  │  │  │  │  │  
+│  │  │  │  │  │  │  └─NatCorder.bundle
+│  │  │  │  │  │  │      │  Contents.meta
+│  │  │  │  │  │  │      │  
+│  │  │  │  │  │  │      └─Contents
+│  │  │  │  │  │  │          │  Info.plist
+│  │  │  │  │  │  │          │  Info.plist.meta
+│  │  │  │  │  │  │          │  MacOS.meta
+│  │  │  │  │  │  │          │  _CodeSignature.meta
+│  │  │  │  │  │  │          │  
+│  │  │  │  │  │  │          ├─MacOS
+│  │  │  │  │  │  │          │      NatCorder
+│  │  │  │  │  │  │          │      NatCorder.meta
+│  │  │  │  │  │  │          │      
+│  │  │  │  │  │  │          └─_CodeSignature
+│  │  │  │  │  │  │                  CodeResources
+│  │  │  │  │  │  │                  CodeResources.meta
+│  │  │  │  │  │  │                  
+│  │  │  │  │  │  ├─Managed
+│  │  │  │  │  │  │  │  Clocks.meta
+│  │  │  │  │  │  │  │  GIFRecorder.cs
+│  │  │  │  │  │  │  │  GIFRecorder.cs.meta
+│  │  │  │  │  │  │  │  HEVCRecorder.cs
+│  │  │  │  │  │  │  │  HEVCRecorder.cs.meta
+│  │  │  │  │  │  │  │  IMediaRecorder.cs
+│  │  │  │  │  │  │  │  IMediaRecorder.cs.meta
+│  │  │  │  │  │  │  │  Inputs.meta
+│  │  │  │  │  │  │  │  Internal.meta
+│  │  │  │  │  │  │  │  JPGRecorder.cs
+│  │  │  │  │  │  │  │  JPGRecorder.cs.meta
+│  │  │  │  │  │  │  │  MP4Recorder.cs
+│  │  │  │  │  │  │  │  MP4Recorder.cs.meta
+│  │  │  │  │  │  │  │  WAVRecorder.cs
+│  │  │  │  │  │  │  │  WAVRecorder.cs.meta
+│  │  │  │  │  │  │  │  
+│  │  │  │  │  │  │  ├─Clocks
+│  │  │  │  │  │  │  │      FixedIntervalClock.cs
+│  │  │  │  │  │  │  │      FixedIntervalClock.cs.meta
+│  │  │  │  │  │  │  │      IClock.cs
+│  │  │  │  │  │  │  │      IClock.cs.meta
+│  │  │  │  │  │  │  │      RealtimeClock.cs
+│  │  │  │  │  │  │  │      RealtimeClock.cs.meta
+│  │  │  │  │  │  │  │      
+│  │  │  │  │  │  │  ├─Inputs
+│  │  │  │  │  │  │  │      AudioInput.cs
+│  │  │  │  │  │  │  │      AudioInput.cs.meta
+│  │  │  │  │  │  │  │      CameraInput.cs
+│  │  │  │  │  │  │  │      CameraInput.cs.meta
+│  │  │  │  │  │  │  │      WebCamTextureInput.cs
+│  │  │  │  │  │  │  │      WebCamTextureInput.cs.meta
+│  │  │  │  │  │  │  │      
+│  │  │  │  │  │  │  └─Internal
+│  │  │  │  │  │  │          Bridge.cs
+│  │  │  │  │  │  │          Bridge.cs.meta
+│  │  │  │  │  │  │          NativeRecorder.cs
+│  │  │  │  │  │  │          NativeRecorder.cs.meta
+│  │  │  │  │  │  │          Utility.cs
+│  │  │  │  │  │  │          Utility.cs.meta
+│  │  │  │  │  │  │          
+│  │  │  │  │  │  └─Windows
+│  │  │  │  │  │          NatCorder.dll
+│  │  │  │  │  │          NatCorder.dll.meta
+│  │  │  │  │  │          
+│  │  │  │  │  └─Prefab
+│  │  │  │  └─Resources
+│  │  │  │          XvMediaRecorder.prefab
+│  │  │  │          XvMediaRecorder.prefab.meta
+│  │  │  │          XvMediaRecorderManager.prefab
+│  │  │  │          XvMediaRecorderManager.prefab.meta
+│  │  │  │          
+│  │  │  ├─MRVideoCapture
+│  │  │  │  │  Resources.meta
+│  │  │  │  │  Scripts.meta
+│  │  │  │  │  
+│  │  │  │  ├─Resources
+│  │  │  │  │      XvMRVideoCaptureManager.prefab
+│  │  │  │  │      XvMRVideoCaptureManager.prefab.meta
+│  │  │  │  │      
+│  │  │  │  └─Scripts
+│  │  │  │          XvMRVideoCaptureManager.cs
+│  │  │  │          XvMRVideoCaptureManager.cs.meta
+│  │  │  │          
+│  │  │  ├─PlaneDetection
+│  │  │  │  │  Resources.meta
+│  │  │  │  │  Scripts.meta
+│  │  │  │  │  
+│  │  │  │  ├─Resources
+│  │  │  │  │      XvPlaneManager.prefab
+│  │  │  │  │      XvPlaneManager.prefab.meta
+│  │  │  │  │      
+│  │  │  │  └─Scripts
+│  │  │  │      │  Base.meta
+│  │  │  │      │  XvPlaneManager.cs
+│  │  │  │      │  XvPlaneManager.cs.meta
+│  │  │  │      │  XvPlaneMeshVisualizer.cs
+│  │  │  │      │  XvPlaneMeshVisualizer.cs.meta
+│  │  │  │      │  
+│  │  │  │      └─Base
+│  │  │  │              XvPlane.cs
+│  │  │  │              XvPlane.cs.meta
+│  │  │  │              
+│  │  │  ├─RTSPStreamer
+│  │  │  │  │  Prefabs.meta
+│  │  │  │  │  Scripts.meta
+│  │  │  │  │  
+│  │  │  │  ├─Prefabs
+│  │  │  │  │      XvRTSPStreamerManager.prefab
+│  │  │  │  │      XvRTSPStreamerManager.prefab.meta
+│  │  │  │  │      
+│  │  │  │  └─Scripts
+│  │  │  │          XvRTSPStreamerManager.cs
+│  │  │  │          XvRTSPStreamerManager.cs.meta
+│  │  │  │          
+│  │  │  ├─SpatialMap
+│  │  │  │  │  Prefabs.meta
+│  │  │  │  │  Scripts.meta
+│  │  │  │  │  
+│  │  │  │  ├─Prefabs
+│  │  │  │  │      XvSpatialMapManager.prefab
+│  │  │  │  │      XvSpatialMapManager.prefab.meta
+│  │  │  │  │      
+│  │  │  │  └─Scripts
+│  │  │  │          XvSpatialMapManager.cs
+│  │  │  │          XvSpatialMapManager.cs.meta
+│  │  │  │          
+│  │  │  ├─SpatialMesh
+│  │  │  │  │  Resources.meta
+│  │  │  │  │  Scripts.meta
+│  │  │  │  │  
+│  │  │  │  ├─Resources
+│  │  │  │  │      XvSpatialMeshManager.prefab
+│  │  │  │  │      XvSpatialMeshManager.prefab.meta
+│  │  │  │  │      
+│  │  │  │  └─Scripts
+│  │  │  │          XvSpatialMeshManager.cs
+│  │  │  │          XvSpatialMeshManager.cs.meta
+│  │  │  │          XvSpatialMeshVisualizer.cs
+│  │  │  │          XvSpatialMeshVisualizer.cs.meta
+│  │  │  │          
+│  │  │  ├─SpeechVoice
+│  │  │  │  │  Android.meta
+│  │  │  │  │  Scripts.meta
+│  │  │  │  │  
+│  │  │  │  ├─Android
+│  │  │  │  │      aitalk-release.aar
+│  │  │  │  │      aitalk-release.aar.meta
+│  │  │  │  │      
+│  │  │  │  └─Scripts
+│  │  │  │          SimpleJson.cs
+│  │  │  │          SimpleJson.cs.meta
+│  │  │  │          XvAitalkModels.cs
+│  │  │  │          XvAitalkModels.cs.meta
+│  │  │  │          XvAndroidHelper.cs
+│  │  │  │          XvAndroidHelper.cs.meta
+│  │  │  │          XvSpeechVoiceManager.cs
+│  │  │  │          XvSpeechVoiceManager.cs.meta
+│  │  │  │          
+│  │  │  ├─SystemSetting
+│  │  │  │  │  Prefabs.meta
+│  │  │  │  │  Scripts.meta
+│  │  │  │  │  
+│  │  │  │  ├─Prefabs
+│  │  │  │  │      XvSystemSettingManager.prefab
+│  │  │  │  │      XvSystemSettingManager.prefab.meta
+│  │  │  │  │      
+│  │  │  │  └─Scripts
+│  │  │  │      │  Base.meta
+│  │  │  │      │  XvSystemSettingManager.cs
+│  │  │  │      │  XvSystemSettingManager.cs.meta
+│  │  │  │      │  
+│  │  │  │      └─Base
+│  │  │  │              XvSystemSetting.cs
+│  │  │  │              XvSystemSetting.cs.meta
+│  │  │  │              
+│  │  │  ├─TagRecognizer
+│  │  │  │  │  Resources.meta
+│  │  │  │  │  Scripts.meta
+│  │  │  │  │  
+│  │  │  │  ├─Resources
+│  │  │  │  │      XvTagRecognizerManager.prefab
+│  │  │  │  │      XvTagRecognizerManager.prefab.meta
+│  │  │  │  │      
+│  │  │  │  └─Scripts
+│  │  │  │      │  Base.meta
+│  │  │  │      │  XvTagRecognizerBehavior.cs
+│  │  │  │      │  XvTagRecognizerBehavior.cs.meta
+│  │  │  │      │  XvTagRecognizerManager.cs
+│  │  │  │      │  XvTagRecognizerManager.cs.meta
+│  │  │  │      │  
+│  │  │  │      └─Base
+│  │  │  │              XvAprilTag.cs
+│  │  │  │              XvAprilTag.cs.meta
+│  │  │  │              
+│  │  │  └─Viewer
+│  │  │      │  Prefabs.meta
+│  │  │      │  Resources.meta
+│  │  │      │  Scripts.meta
+│  │  │      │  
+│  │  │      ├─Prefabs
+│  │  │      │      ScreenCanvas.prefab
+│  │  │      │      ScreenCanvas.prefab.meta
+│  │  │      │      XvCameraManager.prefab
+│  │  │      │      XvCameraManager.prefab.meta
+│  │  │      │      
+│  │  │      ├─Resources
+│  │  │      │  │  Shader.meta
+│  │  │      │  │  
+│  │  │      │  └─Shader
+│  │  │      │          RgbImage.shader
+│  │  │      │          RgbImage.shader.meta
+│  │  │      │          
+│  │  │      └─Scripts
+│  │  │          │  Base.meta
+│  │  │          │  ScreenCanvas.cs
+│  │  │          │  ScreenCanvas.cs.meta
+│  │  │          │  XvCameraManager.cs
+│  │  │          │  XvCameraManager.cs.meta
+│  │  │          │  
+│  │  │          └─Base
+│  │  │              │  Manager.meta
+│  │  │              │  XvARCamera.cs
+│  │  │              │  XvARCamera.cs.meta
+│  │  │              │  XvCameraBase.cs
+│  │  │              │  XvCameraBase.cs.meta
+│  │  │              │  XvStereoCamera.cs
+│  │  │              │  XvStereoCamera.cs.meta
+│  │  │              │  XvTofCamera.cs
+│  │  │              │  XvTofCamera.cs.meta
+│  │  │              │  XvTofIRCamera.cs
+│  │  │              │  XvTofIRCamera.cs.meta
+│  │  │              │  XvWebCamera.cs
+│  │  │              │  XvWebCamera.cs.meta
+│  │  │              │  
+│  │  │              └─Manager
+│  │  │                      XvARCameraManager.cs
+│  │  │                      XvARCameraManager.cs.meta
+│  │  │                      XvStereoCameraManager.cs
+│  │  │                      XvStereoCameraManager.cs.meta
+│  │  │                      XvTofManager.cs
+│  │  │                      XvTofManager.cs.meta
+│  │  │                      XvWebCameraManager.cs
+│  │  │                      XvWebCameraManager.cs.meta
+│  │  │                      
+│  │  └─XvSdk
+│  │      │  XvXR.meta
+│  │      │  
+│  │      └─XvXR
+│  │              XvFeature.cs
+│  │              XvFeature.cs.meta
+│  │              XvFeature.FeatureValidations.cs
+│  │              XvFeature.FeatureValidations.cs.meta
+│  │              XvUtils.cs
+│  │              XvUtils.cs.meta
+│  │              XvXRController.cs
+│  │              XvXRController.cs.meta
+│  │              XvXRHandsSubsystem.cs
+│  │              XvXRHandsSubsystem.cs.meta
+│  │              
+│  └─SampleScenes
+│      │  Keyboard.meta
+│      │  MediaRecorder.meta
+│      │  MRVideoCapture.meta
+│      │  PlaneDetection.meta
+│      │  RTSPStreamer.meta
+│      │  SDKSamples.meta
+│      │  SpatialMap.meta
+│      │  SpatialMesh.meta
+│      │  SystemSetting.meta
+│      │  TagRecognizer.meta
+│      │  Viewer.meta
+│      │  
+│      ├─Keyboard
+│      │  │  Prefabs.meta
+│      │  │  Scenes.meta
+│      │  │  Sprites.meta
+│      │  │  
+│      │  ├─Prefabs
+│      │  │      KeyBoardDemo.prefab
+│      │  │      KeyBoardDemo.prefab.meta
+│      │  │      
+│      │  ├─Scenes
+│      │  │      Keyboard.unity
+│      │  │      Keyboard.unity.meta
+│      │  │      
+│      │  └─Sprites
+│      │          fixed.png
+│      │          fixed.png.meta
+│      │          
+│      ├─MediaRecorder
+│      │  │  Prefabs.meta
+│      │  │  Scenes.meta
+│      │  │  Scripts.meta
+│      │  │  
+│      │  ├─Prefabs
+│      │  │      Env.prefab
+│      │  │      Env.prefab.meta
+│      │  │      
+│      │  ├─Scenes
+│      │  │      MediaRecorder.unity
+│      │  │      MediaRecorder.unity.meta
+│      │  │      
+│      │  └─Scripts
+│      ├─MRVideoCapture
+│      │  │  Prefabs.meta
+│      │  │  Scenes.meta
+│      │  │  Scripts.meta
+│      │  │  
+│      │  ├─Prefabs
+│      │  │      Env.prefab
+│      │  │      Env.prefab.meta
+│      │  │      MRVideoCaptureDemo.prefab
+│      │  │      MRVideoCaptureDemo.prefab.meta
+│      │  │      
+│      │  ├─Scenes
+│      │  │      MRVideoCapture.unity
+│      │  │      MRVideoCapture.unity.meta
+│      │  │      
+│      │  └─Scripts
+│      │          MRVideoCaptureDemo.cs
+│      │          MRVideoCaptureDemo.cs.meta
+│      │          
+│      ├─PlaneDetection
+│      │  │  Materials.meta
+│      │  │  Scenes.meta
+│      │  │  Scripts.meta
+│      │  │  
+│      │  ├─Materials
+│      │  │      PlaneMat.mat
+│      │  │      PlaneMat.mat.meta
+│      │  │      
+│      │  ├─Scenes
+│      │  │      PlaneDetection.unity
+│      │  │      PlaneDetection.unity.meta
+│      │  │      
+│      │  └─Scripts
+│      ├─RTSPStreamer
+│      │  │  prefabs.meta
+│      │  │  Scenes.meta
+│      │  │  
+│      │  ├─prefabs
+│      │  │      Env.prefab
+│      │  │      Env.prefab.meta
+│      │  │      
+│      │  └─Scenes
+│      │          RTSPStreamer.unity
+│      │          RTSPStreamer.unity.meta
+│      │          
+│      ├─SDKSamples
+│      │  │  Prefabs.meta
+│      │  │  Scenes.meta
+│      │  │  Scripts.meta
+│      │  │  
+│      │  ├─Prefabs
+│      │  │      XvLoadScenesDemo.prefab
+│      │  │      XvLoadScenesDemo.prefab.meta
+│      │  │      
+│      │  ├─Scenes
+│      │  │      BaseScene.unity
+│      │  │      BaseScene.unity.meta
+│      │  │      EyeCalibration.unity
+│      │  │      EyeCalibration.unity.meta
+│      │  │      EyeTracking.unity
+│      │  │      EyeTracking.unity.meta
+│      │  │      Gaze.unity
+│      │  │      Gaze.unity.meta
+│      │  │      Joystick.unity
+│      │  │      Joystick.unity.meta
+│      │  │      Keyboard.unity
+│      │  │      Keyboard.unity.meta
+│      │  │      MediaRecorder.unity
+│      │  │      MediaRecorder.unity.meta
+│      │  │      MRTK2.unity
+│      │  │      MRTK2.unity.meta
+│      │  │      MRVideoCapture.unity
+│      │  │      MRVideoCapture.unity.meta
+│      │  │      PlaneDetection.unity
+│      │  │      PlaneDetection.unity.meta
+│      │  │      Rgbd.unity
+│      │  │      Rgbd.unity.meta
+│      │  │      RTSPStreamer.unity
+│      │  │      RTSPStreamer.unity.meta
+│      │  │      SpatialMap.unity
+│      │  │      SpatialMap.unity.meta
+│      │  │      SpatialMesh.unity
+│      │  │      SpatialMesh.unity.meta
+│      │  │      SpeechVoice.unity
+│      │  │      SpeechVoice.unity.meta
+│      │  │      StaticGesture.unity
+│      │  │      StaticGesture.unity.meta
+│      │  │      SystemSetting.unity
+│      │  │      SystemSetting.unity.meta
+│      │  │      TagRecognizer.unity
+│      │  │      TagRecognizer.unity.meta
+│      │  │      TofPointCloud.unity
+│      │  │      TofPointCloud.unity.meta
+│      │  │      Viewer.unity
+│      │  │      Viewer.unity.meta
+│      │  │      
+│      │  └─Scripts
+│      │          XvLoadScenesDemo.cs
+│      │          XvLoadScenesDemo.cs.meta
+│      │          XvLoadScenesManager.cs
+│      │          XvLoadScenesManager.cs.meta
+│      │          
+│      ├─SpatialMap
+│      │  │  Materials.meta
+│      │  │  Prefabs.meta
+│      │  │  Scenes.meta
+│      │  │  Scripts.meta
+│      │  │  
+│      │  ├─Materials
+│      │  │      FeaturePoint.mat
+│      │  │      FeaturePoint.mat.meta
+│      │  │      Obj.mat
+│      │  │      Obj.mat.meta
+│      │  │      
+│      │  ├─Prefabs
+│      │  │      Env.prefab
+│      │  │      Env.prefab.meta
+│      │  │      SpatialMapDemo.prefab
+│      │  │      SpatialMapDemo.prefab.meta
+│      │  │      
+│      │  ├─Scenes
+│      │  │      SpatialMap.unity
+│      │  │      SpatialMap.unity.meta
+│      │  │      
+│      │  └─Scripts
+│      │          SpatialMapDemo.cs
+│      │          SpatialMapDemo.cs.meta
+│      │          
+│      ├─SpatialMesh
+│      │  │  Materials.meta
+│      │  │  Scenes.meta
+│      │  │  Scripts.meta
+│      │  │  Shaders.meta
+│      │  │  
+│      │  ├─Materials
+│      │  │      MeshMat.mat
+│      │  │      MeshMat.mat.meta
+│      │  │      
+│      │  ├─Scenes
+│      │  │      SpatialMesh.unity
+│      │  │      SpatialMesh.unity.meta
+│      │  │      
+│      │  ├─Scripts
+│      │  └─Shaders
+│      │          Wireframe.cginc
+│      │          Wireframe.cginc.meta
+│      │          WireframeTransparent.shader
+│      │          WireframeTransparent.shader.meta
+│      │          
+│      ├─SystemSetting
+│      │  │  Prefabs.meta
+│      │  │  Scenes.meta
+│      │  │  Scripts.meta
+│      │  │  
+│      │  ├─Prefabs
+│      │  │      Env.prefab
+│      │  │      Env.prefab.meta
+│      │  │      XvSystemSettingDemo.prefab
+│      │  │      XvSystemSettingDemo.prefab.meta
+│      │  │      
+│      │  ├─Scenes
+│      │  │      SystemSetting.unity
+│      │  │      SystemSetting.unity.meta
+│      │  │      
+│      │  └─Scripts
+│      │          XvSystemSettingDemo.cs
+│      │          XvSystemSettingDemo.cs.meta
+│      │          
+│      ├─TagRecognizer
+│      │  │  Materials.meta
+│      │  │  Prefabs.meta
+│      │  │  Scenes.meta
+│      │  │  Scripts.meta
+│      │  │  
+│      │  ├─Materials
+│      │  │      apriltagcube 1.mat
+│      │  │      apriltagcube 1.mat.meta
+│      │  │      apriltagcube 2.mat
+│      │  │      apriltagcube 2.mat.meta
+│      │  │      apriltagcube.mat
+│      │  │      apriltagcube.mat.meta
+│      │  │      apriltagsphere.mat
+│      │  │      apriltagsphere.mat.meta
+│      │  │      
+│      │  ├─Prefabs
+│      │  │      XvTagRecognizerDemo.prefab
+│      │  │      XvTagRecognizerDemo.prefab.meta
+│      │  │      XvTagRecognizerManager.prefab
+│      │  │      XvTagRecognizerManager.prefab.meta
+│      │  │      
+│      │  ├─Scenes
+│      │  │      TagRecognizer.unity
+│      │  │      TagRecognizer.unity.meta
+│      │  │      
+│      │  └─Scripts
+│      │          XvTagRecognizerDemo.cs
+│      │          XvTagRecognizerDemo.cs.meta
+│      │          XvTagRecognizerUIController.cs
+│      │          XvTagRecognizerUIController.cs.meta
+│      │          
+│      └─Viewer
+│          │  Materials.meta
+│          │  Prefabs.meta
+│          │  Scenes.meta
+│          │  Scripts.meta
+│          │  
+│          ├─Materials
+│          │      Video.mat
+│          │      Video.mat.meta
+│          │      
+│          ├─Prefabs
+│          │      XvCameraDemo.prefab
+│          │      XvCameraDemo.prefab.meta
+│          │      
+│          ├─Scenes
+│          │      Viewer.unity
+│          │      Viewer.unity.meta
+│          │      
+│          └─Scripts
+│                  XvCameraDemo.cs
+│                  XvCameraDemo.cs.meta
+│                  
+├─MRTK.Generated
+│      MRTKSettings.asset
+│      MRTKSettings.asset.meta
+│      
+├─Plugins
+│  │  Android.meta
+│  │  
+│  └─Android
+│          AndroidManifest.xml
+│          AndroidManifest.xml.meta
+│          baseProjectTemplate.gradle
+│          baseProjectTemplate.gradle.meta
+│          gradleTemplate.properties
+│          gradleTemplate.properties.backup
+│          gradleTemplate.properties.backup.meta
+│          gradleTemplate.properties.meta
+│          LauncherManifest.xml
+│          LauncherManifest.xml.meta
+│          launcherTemplate.gradle
+│          launcherTemplate.gradle.meta
+│          libopenxr_loader.aar
+│          libopenxr_loader.aar.meta
+│          mainTemplate.gradle
+│          mainTemplate.gradle.meta
+│          XvApp.java
+│          XvApp.java.meta
+│          xvwifidisplay-release.aar
+│          xvwifidisplay-release.aar.meta
+│          
+├─TextMesh Pro
+│  │  Documentation.meta
+│  │  Fonts.meta
+│  │  Resources.meta
+│  │  Shaders.meta
+│  │  Sprites.meta
+│  │  
+│  ├─Documentation
+│  │      TextMesh Pro User Guide 2016.pdf
+│  │      TextMesh Pro User Guide 2016.pdf.meta
+│  │      
+│  ├─Fonts
+│  │      LiberationSans - OFL.txt
+│  │      LiberationSans - OFL.txt.meta
+│  │      LiberationSans.ttf
+│  │      LiberationSans.ttf.meta
+│  │      
+│  ├─Resources
+│  │  │  Fonts & Materials.meta
+│  │  │  LineBreaking Following Characters.txt
+│  │  │  LineBreaking Following Characters.txt.meta
+│  │  │  LineBreaking Leading Characters.txt
+│  │  │  LineBreaking Leading Characters.txt.meta
+│  │  │  Sprite Assets.meta
+│  │  │  Style Sheets.meta
+│  │  │  TMP Settings.asset
+│  │  │  TMP Settings.asset.meta
+│  │  │  
+│  │  ├─Fonts & Materials
+│  │  │      LiberationSans SDF - Drop Shadow.mat
+│  │  │      LiberationSans SDF - Drop Shadow.mat.meta
+│  │  │      LiberationSans SDF - Fallback.asset
+│  │  │      LiberationSans SDF - Fallback.asset.meta
+│  │  │      LiberationSans SDF - Outline.mat
+│  │  │      LiberationSans SDF - Outline.mat.meta
+│  │  │      LiberationSans SDF.asset
+│  │  │      LiberationSans SDF.asset.meta
+│  │  │      
+│  │  ├─Sprite Assets
+│  │  │      EmojiOne.asset
+│  │  │      EmojiOne.asset.meta
+│  │  │      
+│  │  └─Style Sheets
+│  │          Default Style Sheet.asset
+│  │          Default Style Sheet.asset.meta
+│  │          
+│  ├─Shaders
+│  │      TMPro.cginc
+│  │      TMPro.cginc.meta
+│  │      TMPro_Mobile.cginc
+│  │      TMPro_Mobile.cginc.meta
+│  │      TMPro_Properties.cginc
+│  │      TMPro_Properties.cginc.meta
+│  │      TMPro_Surface.cginc
+│  │      TMPro_Surface.cginc.meta
+│  │      TMP_Bitmap-Custom-Atlas.shader
+│  │      TMP_Bitmap-Custom-Atlas.shader.meta
+│  │      TMP_Bitmap-Mobile.shader
+│  │      TMP_Bitmap-Mobile.shader.meta
+│  │      TMP_Bitmap.shader
+│  │      TMP_Bitmap.shader.meta
+│  │      TMP_SDF Overlay.shader
+│  │      TMP_SDF Overlay.shader.meta
+│  │      TMP_SDF SSD.shader
+│  │      TMP_SDF SSD.shader.meta
+│  │      TMP_SDF-Mobile Masking.shader
+│  │      TMP_SDF-Mobile Masking.shader.meta
+│  │      TMP_SDF-Mobile Overlay.shader
+│  │      TMP_SDF-Mobile Overlay.shader.meta
+│  │      TMP_SDF-Mobile SSD.shader
+│  │      TMP_SDF-Mobile SSD.shader.meta
+│  │      TMP_SDF-Mobile.shader
+│  │      TMP_SDF-Mobile.shader.meta
+│  │      TMP_SDF-Surface-Mobile.shader
+│  │      TMP_SDF-Surface-Mobile.shader.meta
+│  │      TMP_SDF-Surface.shader
+│  │      TMP_SDF-Surface.shader.meta
+│  │      TMP_SDF.shader
+│  │      TMP_SDF.shader.meta
+│  │      TMP_Sprite.shader
+│  │      TMP_Sprite.shader.meta
+│  │      
+│  └─Sprites
+│          EmojiOne Attribution.txt
+│          EmojiOne Attribution.txt.meta
+│          EmojiOne.json
+│          EmojiOne.json.meta
+│          EmojiOne.png
+│          EmojiOne.png.meta
+│          
+├─XR
+│  │  Loaders.meta
+│  │  Resources.meta
+│  │  Settings.meta
+│  │  UserSimulationSettings.meta
+│  │  XRGeneralSettingsPerBuildTarget.asset
+│  │  XRGeneralSettingsPerBuildTarget.asset.meta
+│  │  
+│  ├─Loaders
+│  │      ARCoreLoader.asset
+│  │      ARCoreLoader.asset.meta
+│  │      OpenXRLoader.asset
+│  │      OpenXRLoader.asset.meta
+│  │      SimulationLoader.asset
+│  │      SimulationLoader.asset.meta
+│  │      
+│  ├─Resources
+│  │      XRSimulationRuntimeSettings.asset
+│  │      XRSimulationRuntimeSettings.asset.meta
+│  │      
+│  ├─Settings
+│  │      ARCoreSettings.asset
+│  │      ARCoreSettings.asset.meta
+│  │      OpenXR Editor Settings.asset
+│  │      OpenXR Editor Settings.asset.meta
+│  │      OpenXR Package Settings.asset
+│  │      OpenXR Package Settings.asset.meta
+│  │      XRSimulationSettings.asset
+│  │      XRSimulationSettings.asset.meta
+│  │      
+│  └─UserSimulationSettings
+│      │  Resources.meta
+│      │  SimulationEnvironmentAssetsManager.asset
+│      │  SimulationEnvironmentAssetsManager.asset.meta
+│      │  
+│      └─Resources
+│              XRSimulationPreferences.asset
+│              XRSimulationPreferences.asset.meta
+│              
+└─XRI
+    │  Settings.meta
+    │  
+    └─Settings
+        │  Resources.meta
+        │  XRInteractionEditorSettings.asset
+        │  XRInteractionEditorSettings.asset.meta
+        │  
+        └─Resources
+                InteractionLayerSettings.asset
+                InteractionLayerSettings.asset.meta
+                XRDeviceSimulatorSettings.asset
+                XRDeviceSimulatorSettings.asset.meta
+                

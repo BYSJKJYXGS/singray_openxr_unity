@@ -1,0 +1,5 @@
+
+org.gradle.parallel=true
+android.enableR8=true
+
+**ADDITIONAL_PROPERTIES**
